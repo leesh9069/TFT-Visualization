@@ -7,4 +7,4 @@
 ## 3. 사용 데이터
 ###  Crawling("https://lolchess.gg")
 
-https://public.tableau.com/app/profile/.16013823/viz/TFTCharacterStatsAnalysis/TFTDashboard
+Tableau Public : https://public.tableau.com/app/profile/.16013823/viz/TFTCharacterStatsAnalysis/TFTDashboard
